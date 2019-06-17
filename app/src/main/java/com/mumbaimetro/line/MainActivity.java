@@ -1,4 +1,4 @@
-package metro.line.mumbai;
+package com.mumbaimetro.line;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

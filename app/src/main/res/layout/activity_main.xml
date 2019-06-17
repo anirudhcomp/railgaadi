@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <metro.line.mumbai.ZoomableImageView
+    <com.mumbaimetro.line.ZoomableImageView
         android:id="@+id/drawingImageView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
